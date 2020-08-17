@@ -5,7 +5,7 @@ def find_min_in_nested_arrays(src)
 newArray = [] 
 count = 0
 while count < src.count 
-  
+  binding.pry
 
  end
  end 
